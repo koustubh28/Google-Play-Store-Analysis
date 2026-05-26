@@ -4,6 +4,7 @@ This project performs Exploratory Data Analysis (EDA) and Feature Engineering on
 The goal is to clean the dataset, analyze app trends, and extract meaningful business insights.
 
 🚀 Project Highlights
+
 Data Cleaning & Preprocessing
 Handling Missing Values
 Feature Engineering
@@ -12,12 +13,14 @@ Visualization of App Trends
 Category-wise Install Analysis
 
 📊 Key Insights
+
 Family, Game, and Tools are the most popular app categories.
 Game, Communication, and Tools have the highest installs.
 Most apps are free, while paid apps form a very small portion of the dataset.
 Ratings are mostly concentrated between 4.0–4.5.
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
